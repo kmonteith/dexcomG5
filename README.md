@@ -6,6 +6,8 @@ I disabled the App Compaitability on the dexcom g5 app. To install on your devic
 
 If you  have any other suggested changes you can email me at kmonteith25@gmail.com, make sure to subject it Dexcom App Update Ideas.
 
+If you need help installing the app you can also email me.
+
 If you would like to donate to help support future efforts you can do so here: https://www.paypal.me/KevinMonteith .
 
 Disclaimer: Use at own risk, I have not tested this on all phones. I am not affiliated with dexcom
